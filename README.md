@@ -124,3 +124,7 @@ explorer.exe $lnk
 - 只支援 Windows。Mac 要改路徑與視窗程式碼。
 - 切 session 用的是 app 的 `claude://code/continue?session=local_…` 連結。
 - 非 Anthropic 官方工具。
+
+## 授權
+
+[MIT](LICENSE)：可自由使用、修改、散布（含商用），保留著作權聲明即可；不附任何保證。
